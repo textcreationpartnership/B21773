@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the court at Whitehall, the third of January, 1678/9. Present, the Kings most excellent Majesty. His Highness Prince Rupert ... [31 others] Mr. Speaker. Whereas the Kings most excellent Majesty ... did by his royal proclamation, bearing date the thirtieth day of October last, straitly charge and command all persons being popish recusants ...</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21773</idno><idno type="EEBO-CITATION">99890526</idno>
+  <idno type="VID">193972</idno>
+  <idno type="EEBO-PROQUEST">2240918391</idno>
+  
+            <idno type="STC">Wing E857</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[170]</idno>
+            <idno type="STC">ESTC R39431</idno>
+            <idno type="PROQUEST">ocm99890526</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890526e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193972)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[170])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the court at Whitehall, the third of January, 1678/9. Present, the Kings most excellent Majesty. His Highness Prince Rupert ... [31 others] Mr. Speaker. Whereas the Kings most excellent Majesty ... did by his royal proclamation, bearing date the thirtieth day of October last, straitly charge and command all persons being popish recusants ...</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill, Christopher Barker, Thomas Newcomb, and Henry Hills, Printers to the Kings most Excellent Majesty.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1678/9. [i.e. 1679].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and first lines of text.</note>
+                  <note>"On information that some recusants have returned [to London and Westminster] the justices are ordered to make diligent search for them and to enforce the law." -- Steele.</note>
+                  <note>Initial; Steele notation: the of this; Arms 88</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Catholics --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:193972:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the British royal family</figDesc>
+                  <head>
+                     <q>DIEV ET MON DROIT</q>
+                  </head>
+                  <p>C. R.</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+               </figure>
+               <hi>At the Court at Whitehall, The Third of <hi>January,</hi>
+               </hi> 1678/9.</head>
+            <list>
+               <head>Present, The Kings Most Excellent Majesty.</head>
+               <item>
+                  <hi>His Highness Prince <hi>Rupert</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Lord Arch Bishop of <hi>Canterbury</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Lord Chancellor</hi>
+               </item>
+               <item>
+                  <hi>Lord Treasurer</hi>
+               </item>
+               <item>
+                  <hi>Lord Privy Seal</hi>
+               </item>
+               <item>
+                  <hi>Duke of <hi>Monmouth</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Duke of <hi>Lauderdale</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Marquess of <hi>Worcester</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Lord Chamberlain</hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Oxford</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Salisbury</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Bridgwater</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Northampton</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Peterborough</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Strafford</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Sunderland</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Essex</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Bathe</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Craven</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Ailesbury</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Earl of <hi>Carbery</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Viscount <hi>Fauconberg</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Viscount <hi>Newport</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Lord Bishop of <hi>London</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Lord Bishop of <hi>Durham</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Lord <hi>Berkeley</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Lord <hi>Maynard</hi>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. Vice Chamber<gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. Secretary C<gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. Secretary H<gap reason="illegible" resp="#keyers" extent="8 letters">
+                        <desc>〈8 letters〉</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Mr. Chancellor of the Exchequer</hi>
+               </item>
+               <item>
+                  <hi>Master of the Ordnance</hi>
+               </item>
+               <item>
+                  <hi>Mr. Speaker.</hi>
+               </item>
+            </list>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Kings most Excellent Majesty (at the humble desire of the Lords Spiritual and Temporal, and Commons in Parliament Assembled) did by His Royal Proclamation, bearing Date the Thirtieth day of <hi>October</hi> last, Straitly Charge and Command all persons being Popish Recusants, or so reputed, That they should on or before the Seventh day of <hi>November</hi> then next ensuing, Depart from His Majesties Royal Palaces of <hi>Whitehall, Somerset</hi> House, and Saint <hi>James's,</hi> the Cities of <hi>London</hi> and <hi>Westminster,</hi> and from all other places within Ten miles distance of the same; And whereas His Majesty hath beén Informed, That several Popish Recusants, and persons reputed to be such, have since the late Prorogation of the Parliament, taken the boldness to resort to the said Cities of <hi>London</hi> and <hi>Westminster,</hi> and other places within the said distance; At which their presumption His Majesty is most highly Offended, and is Graciously pleased this day in Council to Order, That all Iustices of the Peace, and other His Majesties Ministers and Officers, do within their several Precincts within the said Cities of <hi>London</hi> and <hi>Westminster,</hi> or within Ten miles distance of the same, make Diligent and Speédy Search and Inquiry after all such Popish Recusants, or others reputed so to be, who have returned, or do presume to stay within the said Places contrary to the Purport of the said Proclamation, and them and every of them to proceéd against with the utmost Severity, according as they are by the said Proclamation, and the Laws and Statutes of this Kingdom, Required and Impowered to do.</p>
+            <closer>
+               <signed>Robert Southwell.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> John Bill, Christopher Barker, Thomas Newcomb, <hi>and</hi> Henry Hills, <hi>Printers to the Kings most Excellent Majesty.</hi> 1678/9.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
